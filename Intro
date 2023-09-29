@@ -1,0 +1,1 @@
+This is an firmware that runs on RaspberryPi 4. It  utilizes the sensors on SenseHat Board, which is placed on top of raspberry pi, to obtain evironmental readings like temperature, pressure, etc.
